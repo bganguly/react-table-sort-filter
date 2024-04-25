@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App input {
+  width: 60%;
+  text-align: center;
+  margin: 20px 20%;
+}
+
+.customTable {
+  width: 100%;
+  border: 1px solid;
+}
+
+.customTable tr {
+  text-align: center;
+}
